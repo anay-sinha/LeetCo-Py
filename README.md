@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anay-sinha/LeetCo/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anay-sinha/LeetCo/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
