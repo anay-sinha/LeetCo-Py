@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anay-sinha/LeetCo/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anay-sinha/LeetCo/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/anay-sinha/LeetCo/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anay-sinha/LeetCo/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anay-sinha/LeetCo/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/anay-sinha/LeetCo/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anay-sinha/LeetCo/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/anay-sinha/LeetCo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anay-sinha/LeetCo/tree/master/0101-symmetric-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anay-sinha/LeetCo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
