@@ -1,21 +1,25 @@
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-            
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
+        path = []
         res = []
+        candidates.sort()
 
-        def make_combination(idx, comb, total):
+        def recurse(i, total):
             if total == target:
-                res.append(comb[:])
+                res.append(path[:])
                 return
             
-            if total > target or idx >= len(candidates):
+            if i >= len(candidates):
                 return
             
-            comb.append(candidates[idx])
-            make_combination(idx, comb, total + candidates[idx])
-            comb.pop()
-            make_combination(idx+1, comb, total)
+            if total + candidates[i] > target:
+                return
+            path.append(candidates[i])
+            recurse(i, total + candidates[i])
+            path.pop()
 
-            return res
-
-        return make_combination(0, [], 0)
+            recurse(i+1, total)
+        
+        recurse(0,0)
+        
+        return res
