@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anay-sinha/LeetCo/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/anay-sinha/LeetCo/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/anay-sinha/LeetCo/tree/master/0050-powx-n) |
 ## Greedy
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anay-sinha/LeetCo/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/anay-sinha/LeetCo/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anay-sinha/LeetCo/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Tree
